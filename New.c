@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("New");
+    ///fjdhfh
     return 0;
 }
